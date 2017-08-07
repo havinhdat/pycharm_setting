@@ -1,0 +1,114 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.4.3 (D:\AppDir\Python34\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="D:\AppDir\Python34\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/AppDir/Python34/DLLs" />
+            <root type="simple" url="file://D:/AppDir/Python34/Lib" />
+            <root type="simple" url="file://D:/AppDir/Python34" />
+            <root type="simple" url="file://D:/AppDir/Python34/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-1259269016" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3 virtualenv at D:\VedDjango\VirtualEnv\helloworld_env" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="D:\VedDjango\VirtualEnv\helloworld_env\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/AppDir/Python34/DLLs" />
+            <root type="simple" url="file://D:/AppDir/Python34/Lib" />
+            <root type="simple" url="file://D:/AppDir/Python34" />
+            <root type="simple" url="file://D:/VedDjango/VirtualEnv/helloworld_env" />
+            <root type="simple" url="file://D:/VedDjango/VirtualEnv/helloworld_env/Lib/site-packages" />
+            <root type="simple" url="jar://D:/VedDjango/VirtualEnv/helloworld_env/Lib/site-packages/setuptools-28.8.0-py3.4.egg!/" />
+            <root type="simple" url="file://D:/VedDjango/VirtualEnv/helloworld_env/Lib/site-packages/pip-9.0.1-py3.4.egg" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-639096717" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.4.3 (sftp://root@192.168.37.2:22/root/.virtualenvs/helloworld_env/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="sftp://root@192.168.37.2:22/root/.virtualenvs/helloworld_env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/674397015/1101747072" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/674397015/877221246" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/674397015/201545289" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/674397015/-792384633" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/674397015/1701277796" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/674397015/1101747072" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/674397015/877221246" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/674397015/201545289" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/674397015/-792384633" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/674397015/1701277796" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/674397015" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="57ef890a-daab-4fde-aafd-fc7dd3680328" WEB_SERVER_CONFIG_NAME="local_VED" WEB_SERVER_CREDENTIALS_ID="sftp://root@192.168.37.2:22" INTERPRETER_PATH="/root/.virtualenvs/helloworld_env/bin/python" HELPERS_PATH="/root/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 3.4.3">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/674397015/1101747072" remote-root="/root/.virtualenvs/helloworld_env/lib/python3.4" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/674397015/877221246" remote-root="/root/.virtualenvs/helloworld_env/lib/python3.4/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/674397015/201545289" remote-root="/usr/lib/python3.4" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/674397015/-792384633" remote-root="/usr/lib/python3.4/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/674397015/1701277796" remote-root="/root/.virtualenvs/helloworld_env/lib/python3.4/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/674397015/1101747072" remote-root="/root/.virtualenvs/helloworld_env/lib/python3.4" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/674397015/877221246" remote-root="/root/.virtualenvs/helloworld_env/lib/python3.4/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/674397015/201545289" remote-root="/usr/lib/python3.4" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/674397015/-792384633" remote-root="/usr/lib/python3.4/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/674397015/1701277796" remote-root="/root/.virtualenvs/helloworld_env/lib/python3.4/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+  </component>
+</application>
