@@ -9,14 +9,6 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="d530e7a6-389e-4053-888a-693796e48d0d" name="ocha_inventory_LOCAL" url="http://192.168.37.2">
-        <fileTransfer host="192.168.37.2" port="22" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
     </option>
   </component>
 </application>
