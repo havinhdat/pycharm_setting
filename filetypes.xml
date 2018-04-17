@@ -3,6 +3,7 @@
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="post-receive" type="Bash" />
+      <mapping pattern="init_stats_tables.sql" type="PLAIN_TEXT" />
       <mapping pattern="host_local" type="PLAIN_TEXT" />
       <mapping pattern="pos_stats_backend" type="PLAIN_TEXT" />
       <mapping pattern="host_test_103_78_77_19" type="PLAIN_TEXT" />
@@ -22,6 +23,7 @@
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="elf" type="PLAIN_TEXT" />
+      <mapping pattern="tst.sql" type="SQL" />
     </extensionMap>
   </component>
 </application>
